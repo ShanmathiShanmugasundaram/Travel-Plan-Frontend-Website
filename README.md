@@ -8,7 +8,7 @@ This is a simple and responsive **Travel Vlog Website** built using HTML, CSS, a
 - **Blog Page** – Travel blogs and stories with descriptive content.
 - **Gallery Page** – A collection of travel images and memories.
 - **Login Page** – User login interface (frontend only).
-- **Signup Page** – User registration interface (frontend only).
+- **Signup Page** – User registration interface (frontend only)
 
 ## 💻Technologies Used
 
