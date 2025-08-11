@@ -18,6 +18,9 @@ This is a simple and responsive **Travel Vlog Website** built using HTML, CSS, a
 - JavaScript 
 
 ## 🖼️ Screenshots
-
+![Alt text](CSI1.png)
+![Alt text](CSI2.png)
+![Alt text](CSI3.png)
+![Alt text](CSI4.png)
  
 
